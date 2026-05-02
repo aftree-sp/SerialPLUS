@@ -1,6 +1,6 @@
 # SerialPLUS
 
-**基于 Qt6 的全功能串口终端 · Material Design UI · C++ 构建**
+**基于 Qt6 的全功能串口终端 · C++ 构建**
 
 ---
 
