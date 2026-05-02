@@ -1,0 +1,41 @@
+# 构建目录
+build/
+dist/
+
+# Qt 构建产物
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.res
+*.rcc
+*qrc_*.cpp
+*moc_*.cpp
+*moc_*.h
+
+# VS / Qt Creator
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pro
+*.pro.user
+*.ui.autosave
+
+# CLion / Qt Creator
+.idea/
+cmake-build-*/
+
+# 打包脚本（本地用，不推 github）
+*.bat
+
+# 临时文件
+*.log
+*.tmp
+*~
+
+# macOS
+.DS_Store
